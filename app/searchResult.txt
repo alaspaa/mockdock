@@ -1,1 +1,103 @@
-This is a test
+{
+  "startIndex": 0,
+  "totalHits": 1,
+  "hits": [
+    {
+      "text": [
+        {
+          "lang": "FI",
+          "title": "Kuopion WMS-palvelu",
+          "abstractText": "Kuopion WMS-palvelu on WMS-rajapintapalvelu, joka perustuu Kuopio paikkatietoaineistoihin. Palvelun kautta on saatavilla alla luetellut, palveluun liittyvät tietoaineistot (karttatasot). Palvelun tasot on jaoteltu avoimiin sekä tunnistautumista vaativiin aineistoihin. \n\nKuopion opaskartta-aineistot, kantakartta sekä kaava-aineistot julkaistaan avoimena datana WMS-palvelussa sekä Kuopion internet-karttapalvelussa.  Avoimet aineisto on eroteltu omaksi tasoluotteloksi. Tunnistumista vaativat wms-tasot vaativat käyttäjätunnuksen ja salasanan.\n\nAvoimet tasot:\nkantakartta\nKantakartanMaastotiedot(harmaasävy ilman kiinteistönrajoja)\nKantakartta(harmaa)\nopaskartta\nopaskartta(taajama)\nopaskartta(haja)\nkaavayhdistelma\nasemakaava (mustavalkoinen)\nasemakaava (varillinen)\nAsemakaava\nyleiskaava\nvirastokartta\ntaustakartta\n\nTunnistautumista vaativat tasot:\nperuskartta\nperuskartta (pohjakuviot)\nmaastokartta\nyleiskartta\nyleiskaava (mustavalkoinen)\nortokuva (yhdistelma)",
+          "organisations": [
+            {
+              "name": "Kuopion kaupunki",
+              "role": ""
+            }
+          ]
+        },
+        {
+          "lang": "SV",
+          "title": null,
+          "abstractText": null,
+          "organisations": [
+            {
+              "name": null,
+              "role": ""
+            }
+          ]
+        },
+        {
+          "lang": "EN",
+          "title": null,
+          "abstractText": null,
+          "organisations": [
+            {
+              "name": null,
+              "role": ""
+            }
+          ]
+        }
+      ],
+      "score": "NaN",
+      "id": "c43810c7-b9a8-4641-a8d0-2a25071ae22e",
+      "dateStamp": "2020-01-27T10:39:23",
+      "catalog": {
+        "url": "https://paikkatietohakemisto.fi",
+        "type": "CSW"
+      },
+      "types": [
+        "isService"
+      ],
+      "topicCategories": [],
+      "keywordsInspire": [
+        "Osoitteet",
+        "Ortoilmakuvat"
+      ],
+      "distributionFormats": []
+    }
+  ],
+  "facets": {
+    "types": [
+      {
+        "id": "isService",
+        "count": 1
+      },
+      {
+        "id": "isDataset",
+        "count": 0
+      },
+      {
+        "id": "isAvoindata",
+        "count": 0
+      },
+      {
+        "id": "isPtaAineisto",
+        "count": 0
+      }
+    ],
+    "organisations": [
+      {
+        "id": "Kuopion kaupunki",
+        "count": 1
+      }
+    ],
+    "topicCategories": [],
+    "sourceCatalog": [
+      {
+        "id": "https://paikkatietohakemisto.fi",
+        "count": 1
+      }
+    ],
+    "keywordsInspire": [
+      {
+        "id": "Ortoilmakuvat",
+        "count": 1
+      },
+      {
+        "id": "Osoitteet",
+        "count": 1
+      }
+    ],
+    "distributionFormats": []
+  }
+}
